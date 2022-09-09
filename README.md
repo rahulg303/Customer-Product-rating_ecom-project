@@ -38,6 +38,20 @@ pip install -r requirements.txt
 ##
 ## **Directory **Tree****
 
+├── Project Code
+
+│   ├── datavalidation.py
+
+│   ├── fileRead.py
+
+│   ├── missingValues.py
+
+│   ├── modelFinder.py
+
+│   ├── preprocessor.py
+
+│   ├── savingModel.py
+
 ├── templates
 
 │   ├── ecom.html
