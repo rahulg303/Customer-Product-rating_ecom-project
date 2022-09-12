@@ -37,6 +37,17 @@ pip install -r requirements.txt
 
 ##
 ## **Directory **Tree****
+├── Documentation
+
+│   ├── Ecom_HLD
+
+│   ├── Ecom_LLD
+
+│   ├── Ecom_Wireframe
+
+│   ├── Ecom_DPR
+
+│   ├── Ecom_Architecture
 
 ├── Project Code
 
@@ -59,8 +70,6 @@ pip install -r requirements.txt
 ├── Procfile
 
 ├── README.md
-
-├── code
 
 ├── ecom_ML_project.ipynb
 
