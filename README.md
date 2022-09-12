@@ -75,6 +75,8 @@ pip install -r requirements.txt
 
 ├── EDA_ecom.ipynb
 
+├── E-commerce project demo video
+
 ├── decision_tree.pkl
 
 ├── requirements.txt
